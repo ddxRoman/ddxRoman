@@ -1,6 +1,7 @@
-### Hi there 👋
+ Hi there, i'm Roman
 
-https://t.me/ddxRoman/<TELEGRAM>-<MESSAGE>-<blue>
+https://t.me/ddxRoman
+
 
 
 <!--

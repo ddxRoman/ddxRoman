@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-https://t.me/ddxRoman
+https://t.me/ddxRoman<TELEGRAM>-<MESSAGE>-<blue>
+
 
 <!--
 **ddxRoman/ddxRoman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

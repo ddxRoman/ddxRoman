@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://t.me/ddxRoman<TELEGRAM>-<MESSAGE>-<blue>
+https://t.me/ddxRoman/<TELEGRAM>-<MESSAGE>-<blue>
 
 
 <!--
